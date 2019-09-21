@@ -18,6 +18,7 @@ Linkedin: [https://www.linkedin.com/in/aliaksandr-yanushkevich/](https://www.lin
 
 ## Technology|Level
 
+---
 HTML|Basic
 CSS|Basic
 GIT|Basic
