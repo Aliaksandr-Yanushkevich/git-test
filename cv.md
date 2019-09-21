@@ -12,16 +12,15 @@ Linkedin: [https://www.linkedin.com/in/aliaksandr-yanushkevich/](https://www.lin
 
 ## Summary
 
-## I like technology, coding and cats.
+I like technology, coding and cats.
 
 ## Skills
 
-## Technology|Level
-
----
-HTML|Basic
-CSS|Basic
-GIT|Basic
-SQL|Basic
-Atlassian Jira|Basic
-MS Excel|Advanced
+| Technology     | Level    |
+| -------------- | -------- |
+| HTML           | Basic    |
+| CSS            | Basic    |
+| GIT            | Basic    |
+| SQL            | Basic    |
+| Atlassian Jira | Basic    |
+| MS Excel       | Advanced |
